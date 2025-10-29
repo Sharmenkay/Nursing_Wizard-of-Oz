@@ -14,7 +14,7 @@ Features:
 - Designed to support research into trust and plausibility in clinical decision support  
   (Pre-ML/XAI phase using rule-based logic)
 
-- Outputs rule-based justifications aligned with the XAIR framework
+- Outputs rule-based justifications aligned with the XAIR framework 
 
 
 Purpose: 
