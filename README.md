@@ -2,11 +2,19 @@ Nursing Wizard of Oz Simulation
 
 This is a Wizard of Oz prototype using Streamlit to simulate a rule-based nursing decision support tool.
 
-•	Simulates nurse workflow following the Nursing Process (Assessment, Diagnosis, Outcomes, Identification, Planning, Implementation, Evaluation)
-•	Integrated with the Morse Fall Scale to assess and guide fall risk intervention
-•	Grounded in the 2023 Public Health Nurse Protocols for contextual justification
-•	Designed to study trust** and plausibility in decision support (pre-ML/XAI phase)
-•	Outputs rule-based justification aligned with XAIR framework.
+Features:
+
+- Simulates nurse workflow following the Nursing Process:  
+  (Assessment → Diagnosis → Outcomes Identification → Planning → Implementation → Evaluation)
+
+- Integrated with the Morse Fall Scale to assess and guide fall risk intervention
+
+- Grounded in the Georgia 2023 Public Health Nurse Protocols for contextual justification
+
+- Designed to support research into trust and plausibility in clinical decision support  
+  (Pre-ML/XAI phase using rule-based logic)
+
+- Outputs rule-based justifications aligned with the XAIR framework
 
 
 Purpose: 
