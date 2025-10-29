@@ -1,0 +1,1 @@
+Temp:101.5, BP:145/95, HR:110, Symptoms:chills, nausea, Interventions:[]
